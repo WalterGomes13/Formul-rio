@@ -1,0 +1,10 @@
+@media (max-width: 600px) {
+  .container {
+    width: 100%;
+    padding: var(--padding-container);
+    input,
+    button {
+      font-size: 1rem;
+    }
+  }
+}
